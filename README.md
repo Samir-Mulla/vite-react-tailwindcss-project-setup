@@ -4,7 +4,8 @@ This is a template repository for quickly setting up a React project with Tailwi
 
 ## Getting Started
 
-To get started with this template, you can simply click on the "Use this template" button at the top of the repository. This will create a new repository in your account with the same files and structure as this template.
+To get started with this template, you can simply click on the "Use this template" button at the top of the repository.
+This will create a new repository in your account with the same files and structure as this template.
 
 ### Prerequisites
 
