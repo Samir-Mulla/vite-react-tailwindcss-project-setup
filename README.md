@@ -38,7 +38,8 @@ npm run dev
 or
 yarn dev
 
-This will start the Vite development server at http://localhost:3000. You can view your React app in the browser and any changes you make will be hot-reloaded.
+This will start the Vite development server at http://localhost:3000.
+You can view your React app in the browser and any changes you make will be hot-reloaded.
 ```
 
 ### Building for Production :
